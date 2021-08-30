@@ -1,0 +1,44 @@
+Path 1 (Blue):
+   stop1: Kansas City, KS
+	stop2: Salina, KS (173 miles)
+		stop3: Goodland, KS (238 miles)
+			stop4: Denver, CO (197 miles)
+				stop4a: Cheyenne Mountains Air Force Station, CO (80 miles)
+				stop5: Grand Junction, CO (243 miles)
+					stop6: Scipio, UT (236 miles)
+						stop16a: Ogden, UT -- NOW ON PATH 2 (157 miles)
+    						stop7a: Las Vegas, NV (302 miles)
+							stop8a: Reno, NV (438 miles)
+						stop7: Wheeler Peak, NV (154 miles)
+							stop8: Reno, NV (399 miles)
+      								stop9: Hat Creek, CA (151 miles)
+									stop10: Medford, OR (155 miles)
+										stop11: Willamette Valley, OR (233 miles)
+
+Path 2 (Red):
+   stop1: Kansas City, KS
+	stop12: Lincoln, NE (195 miles)
+		stop21a: Omaha, NE (59 miles) -- NOW ON PATH 3
+		stop13: North Platte, NE (226 miles)
+			stop23a: Rapid City, SD (308 miles) -- NOW ON PATH 3
+			stop14: Cheyenne, WY (221 miles)
+				stop15: Rock Springs, WY (256 miles)
+					stop16: Ogden, UT (181 miles)
+						stop17: Twin Falls, ID (184 miles)
+							stop 18: Boise, ID (129 miles)
+								stop19: La Grande, OR (171 miles)
+									stop20: Portland, OR (263 miles)
+										stop11a: Willamette Valley, OR (50 miles)
+
+Path 3 (Yellow)
+   stop1: Kansas City, KS
+	stop21: Omaha, NE (185 miles)
+		stop12a: Lincoln, NE (59 miles) -- NOW ON PATH 2
+		stop22: Sioux Falls, SD (181 miles) 
+			stop23: Rapid City, SD (347 miles)
+				stop13a: North Platte, NE (308 miles) -- NOW ON PATH 2
+				stop24: Lame Deer, MT (215 miles)
+					stop25: Bozeman, MT (245 miles)
+						stop26: Missoula, MT (202 miles)
+							stop27: Lewiston, ID (217 miles)
+								stop20a: Portland, OR (347 miles) -- OVERLAPS PATH 2

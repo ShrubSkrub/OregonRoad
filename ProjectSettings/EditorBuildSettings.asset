@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 626d84d9ee7489d4d87f1d8b5877dc89
+  - enabled: 1
+    path: Assets/Scenes/Intro1.unity
+    guid: 338d82f09a2219c4f9a2278290be09d6
+  - enabled: 1
+    path: Assets/Scenes/StartingLocationSelection.unity
+    guid: 424ad5a8aca73004a9f149ea78ea1232
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: 327f12f8c54c2304ab2c8943fd8ce86a
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/KansasCityKS.unity
+    guid: 5cbf94b009b03b94787e693f891e7448
+  - enabled: 1
+    path: Assets/Scenes/Sample UI.unity
+    guid: 97378ee0838112d449401d01247d1459
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/SalinaKS.unity
+    guid: 7b6c8b75234d315478e4d5020a1a26c8
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/GoodlandKS.unity
+    guid: 902bd0f13dd8ef540a18b419b15568a4
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/DenverCO.unity
+    guid: 92ae414ae360d0a488d933b3432bc718
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/CheyenneMountainsAirForceStationCO.unity
+    guid: e11d784ae66d2be4cb5918c5edb215b0
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/GrandJunctionCO.unity
+    guid: e947542f33be69d43aca2b192367c1c8
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/ScipioUT.unity
+    guid: 0622a451953047a408e5947048e4f3d7
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/WheelerPeakNV.unity
+    guid: 80c94c5e6061ebf459a1392e181069d3
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/LasVegasNV.unity
+    guid: 881f3a46b74387647b364805417ca496
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/RenoNV.unity
+    guid: f65aa4f33693e6b4b8ef967dc52c50b6
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/HatCreekCA.unity
+    guid: 9ccf71c900344244997f23073f1a2f25
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/MedfordOR.unity
+    guid: 689bd04c1a0658f46b3ee8447d1c349d
+  - enabled: 1
+    path: Assets/Scenes/stops/path1/WillametteValleyOR.unity
+    guid: bab892ee944d02c4891deca4c85545af
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/LincolnNE.unity
+    guid: 3a50e357eb55c0c4bae197ecdf06f0cf
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/NorthPlatteNE.unity
+    guid: db8ccefd28e1bb44681229e7676a52ba
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/CheyenneWY.unity
+    guid: 9406d752c96bad742b7a990083ae8a6f
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/RockSpringsWY.unity
+    guid: 73a384d09b8e5784aa941504631f198e
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/OgdenUT.unity
+    guid: 4a50eed538db3bd4bb2f50f0ff4c0f16
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/TwinFallsID.unity
+    guid: 2d006dff9e38050448364fadb7e7deba
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/BoiseID.unity
+    guid: 69f2321938a42f541a22d9dffeba024e
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/LaGrandeOR.unity
+    guid: e91d0de16b8b8634aa17a17aa2fd63cd
+  - enabled: 1
+    path: Assets/Scenes/stops/path2/PortlandOR.unity
+    guid: 47a0d86a857230b41ae70c83a92f87b7
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/OmahaNE.unity
+    guid: dfc98fafa97ee7a4fb811dbb5f079512
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/SiouxFallsSD.unity
+    guid: cb8a70ba6cd1adf479f7c6c493b2a447
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/RapidCitySD.unity
+    guid: 20b98142ac7e7824fbffffc7b8543b3b
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/LameDeerMT.unity
+    guid: 206de26479f2a014a88db55a0d329988
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/BozemanMT.unity
+    guid: c0e528df5f8c49246b01f3fb72a4de0f
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/MissoulaMT.unity
+    guid: 922366baee289954b9b1ea659ea386ea
+  - enabled: 1
+    path: Assets/Scenes/stops/path3/LewistonID.unity
+    guid: 542bc6d6ff802674c9af0f0bd44db75d
+  - enabled: 1
+    path: Assets/Scenes/TravellingScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 3a82ff543e3e24746818528b974cb536
+  - enabled: 1
+    path: Assets/Scenes/Tombstone.unity
+    guid: f30fb267906b8b447a62765671fcd1be
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 23d3571a6717e6c409e394796eb4e0e6
+  m_configObjects: {}
